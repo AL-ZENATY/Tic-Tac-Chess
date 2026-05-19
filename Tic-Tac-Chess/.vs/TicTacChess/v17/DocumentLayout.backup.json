@@ -1,0 +1,247 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|c:\\users\\abdullah\\desktop\\teraa\\2-year\\02-applicatie_ programmeren\\periode - 3\\5-workshop\\week-1\\tictacchess\\tictacchess\\game\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|solutionrelative:game\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|c:\\users\\abdullah\\desktop\\teraa\\2-year\\02-applicatie_ programmeren\\periode - 3\\5-workshop\\week-1\\tictacchess\\tictacchess\\game\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|solutionrelative:game\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|c:\\users\\abdullah\\desktop\\teraa\\2-year\\02-applicatie_ programmeren\\periode - 3\\5-workshop\\week-1\\tictacchess\\tictacchess\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|c:\\users\\abdullah\\desktop\\teraa\\2-year\\02-applicatie_ programmeren\\periode - 3\\5-workshop\\week-1\\tictacchess\\tictacchess\\game\\arduinomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|solutionrelative:game\\arduinomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|c:\\users\\abdullah\\desktop\\teraa\\2-year\\02-applicatie_ programmeren\\periode - 3\\5-workshop\\week-1\\tictacchess\\tictacchess\\game\\robotboardmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|solutionrelative:game\\robotboardmap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|c:\\users\\abdullah\\desktop\\teraa\\2-year\\02-applicatie_ programmeren\\periode - 3\\5-workshop\\week-1\\tictacchess\\tictacchess\\game\\statusmessagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|solutionrelative:game\\statusmessagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|c:\\users\\abdullah\\desktop\\teraa\\2-year\\02-applicatie_ programmeren\\periode - 3\\5-workshop\\week-1\\tictacchess\\tictacchess\\game\\robotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|solutionrelative:game\\robotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|c:\\users\\abdullah\\desktop\\teraa\\2-year\\02-applicatie_ programmeren\\periode - 3\\5-workshop\\week-1\\tictacchess\\tictacchess\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|c:\\users\\abdullah\\desktop\\teraa\\2-year\\02-applicatie_ programmeren\\periode - 3\\5-workshop\\week-1\\tictacchess\\tictacchess\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|solutionrelative:properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|c:\\users\\abdullah\\desktop\\teraa\\2-year\\02-applicatie_ programmeren\\periode - 3\\5-workshop\\week-1\\tictacchess\\tictacchess\\game\\pieceimagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|solutionrelative:game\\pieceimagemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|c:\\users\\abdullah\\desktop\\teraa\\2-year\\02-applicatie_ programmeren\\periode - 3\\5-workshop\\week-1\\tictacchess\\tictacchess\\game\\windetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|solutionrelative:game\\windetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|c:\\users\\abdullah\\desktop\\teraa\\2-year\\02-applicatie_ programmeren\\periode - 3\\5-workshop\\week-1\\tictacchess\\tictacchess\\game\\movevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CAABD1-2B11-41D0-963F-67CFDC5B09CB}|TicTacChess.csproj|solutionrelative:game\\movevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAFMCAAAAAAAAAAAuwIYCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T12:03:52.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Properties\\Resources.resx",
+              "RelativeToolTip": "Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-04-08T12:01:33.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RobotController.cs",
+              "DocumentMoniker": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Game\\RobotController.cs",
+              "RelativeDocumentMoniker": "Game\\RobotController.cs",
+              "ToolTip": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Game\\RobotController.cs",
+              "RelativeToolTip": "Game\\RobotController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwv1YAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T13:02:30.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RobotBoardMap.cs",
+              "DocumentMoniker": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Game\\RobotBoardMap.cs",
+              "RelativeDocumentMoniker": "Game\\RobotBoardMap.cs",
+              "ToolTip": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Game\\RobotBoardMap.cs",
+              "RelativeToolTip": "Game\\RobotBoardMap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T12:37:24.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ArduinoManager.cs",
+              "DocumentMoniker": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Game\\ArduinoManager.cs",
+              "RelativeDocumentMoniker": "Game\\ArduinoManager.cs",
+              "ToolTip": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Game\\ArduinoManager.cs",
+              "RelativeToolTip": "Game\\ArduinoManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T11:56:08.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StatusMessageManager.cs",
+              "DocumentMoniker": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Game\\StatusMessageManager.cs",
+              "RelativeDocumentMoniker": "Game\\StatusMessageManager.cs",
+              "ToolTip": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Game\\StatusMessageManager.cs",
+              "RelativeToolTip": "Game\\StatusMessageManager.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAkwEYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T10:11:59.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PieceImageManager.cs",
+              "DocumentMoniker": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Game\\PieceImageManager.cs",
+              "RelativeDocumentMoniker": "Game\\PieceImageManager.cs",
+              "ToolTip": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Game\\PieceImageManager.cs",
+              "RelativeToolTip": "Game\\PieceImageManager.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAcwIkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T15:29:32.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WinDetector.cs",
+              "DocumentMoniker": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Game\\WinDetector.cs",
+              "RelativeDocumentMoniker": "Game\\WinDetector.cs",
+              "ToolTip": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Game\\WinDetector.cs",
+              "RelativeToolTip": "Game\\WinDetector.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T09:53:12.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MoveValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Game\\MoveValidator.cs",
+              "RelativeDocumentMoniker": "Game\\MoveValidator.cs",
+              "ToolTip": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Game\\MoveValidator.cs",
+              "RelativeToolTip": "Game\\MoveValidator.cs",
+              "ViewState": "AgIAAJQAAAAAAAAAAAAIwMQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T09:52:37.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Game\\GameManager.cs",
+              "RelativeDocumentMoniker": "Game\\GameManager.cs",
+              "ToolTip": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Game\\GameManager.cs",
+              "RelativeToolTip": "Game\\GameManager.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAkwB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T09:50:09.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Board.cs",
+              "DocumentMoniker": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Game\\Board.cs",
+              "RelativeDocumentMoniker": "Game\\Board.cs",
+              "ToolTip": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Game\\Board.cs",
+              "RelativeToolTip": "Game\\Board.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T10:29:06.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T09:24:14.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T12:43:24.114Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
