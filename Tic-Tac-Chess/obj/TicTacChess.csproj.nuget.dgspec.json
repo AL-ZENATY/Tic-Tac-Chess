@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\TicTacChess.csproj": {}
+    "C:\\Users\\Abdullah\\Desktop\\Projects\\Tic-Tac-Chess\\Tic-Tac-Chess\\TicTacChess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\TicTacChess.csproj": {
+    "C:\\Users\\Abdullah\\Desktop\\Projects\\Tic-Tac-Chess\\Tic-Tac-Chess\\TicTacChess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\TicTacChess.csproj",
+        "projectUniqueName": "C:\\Users\\Abdullah\\Desktop\\Projects\\Tic-Tac-Chess\\Tic-Tac-Chess\\TicTacChess.csproj",
         "projectName": "TicTacChess",
-        "projectPath": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\TicTacChess.csproj",
+        "projectPath": "C:\\Users\\Abdullah\\Desktop\\Projects\\Tic-Tac-Chess\\Tic-Tac-Chess\\TicTacChess.csproj",
         "packagesPath": "C:\\Users\\Abdullah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\obj\\",
+        "outputPath": "C:\\Users\\Abdullah\\Desktop\\Projects\\Tic-Tac-Chess\\Tic-Tac-Chess\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

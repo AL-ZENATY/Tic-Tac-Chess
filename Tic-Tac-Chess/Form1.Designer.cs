@@ -410,11 +410,12 @@ namespace TicTacChess
             // 
             // videoPlayerZy
             // 
+            videoPlayerZy.Dock = DockStyle.Fill;
             videoPlayerZy.Enabled = true;
-            videoPlayerZy.Location = new Point(-31, 666);
+            videoPlayerZy.Location = new Point(0, 0);
             videoPlayerZy.Name = "videoPlayerZy";
             videoPlayerZy.OcxState = (AxHost.State)resources.GetObject("videoPlayerZy.OcxState");
-            videoPlayerZy.Size = new Size(259, 133);
+            videoPlayerZy.Size = new Size(1145, 780);
             videoPlayerZy.TabIndex = 15;
             videoPlayerZy.Visible = false;
             // 
@@ -571,12 +572,12 @@ namespace TicTacChess
             BackgroundImage = Properties.Resources.background;
             BackgroundImageLayout = ImageLayout.Stretch;
             ClientSize = new Size(1145, 780);
+            Controls.Add(videoPlayerZy);
             Controls.Add(picLampGoldZy);
             Controls.Add(btnTogglePiecesZy);
             Controls.Add(picSetup5);
             Controls.Add(picSetup4);
             Controls.Add(pictureBox1);
-            Controls.Add(videoPlayerZy);
             Controls.Add(btnSilverSetupZy);
             Controls.Add(btnGoldSetupZy);
             Controls.Add(picSetup3);

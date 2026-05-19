@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TicTacChess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dd0a0b3cd95c2c079921bca0b87fb9f0bc38258c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61bce35e9eeb0da8f204cfb4b7abdc563587f099")]
 [assembly: System.Reflection.AssemblyProductAttribute("TicTacChess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TicTacChess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -30,7 +30,8 @@ namespace TicTacChess
         // Handles communication with the Arduino
         private ArduinoManager arduino;
         private RobotController robot;
-        private bool useRobot = true;
+        private bool useRobot = false; // <-- set to true to enable robot moves (make sure Arduino is connected and configured correctly)
+                                       // or set to false to play without the robot (you can still click the "zero robot" button but it won't do anything)
 
 
         // =========================

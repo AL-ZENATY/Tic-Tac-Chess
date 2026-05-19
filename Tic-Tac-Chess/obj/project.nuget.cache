@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "j3xPK/rmxig=",
+  "dgSpecHash": "ZqliOb061Dc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Abdullah\\Desktop\\TerAA\\2-Year\\02-Applicatie_ Programmeren\\Periode - 3\\5-Workshop\\Week-1\\TicTacChess\\TicTacChess\\TicTacChess.csproj",
+  "projectFilePath": "C:\\Users\\Abdullah\\Desktop\\Projects\\Tic-Tac-Chess\\Tic-Tac-Chess\\TicTacChess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Abdullah\\.nuget\\packages\\runtime.android-arm.runtime.native.system.io.ports\\10.0.5\\runtime.android-arm.runtime.native.system.io.ports.10.0.5.nupkg.sha512",
     "C:\\Users\\Abdullah\\.nuget\\packages\\runtime.android-arm64.runtime.native.system.io.ports\\10.0.5\\runtime.android-arm64.runtime.native.system.io.ports.10.0.5.nupkg.sha512",
